@@ -133,5 +133,5 @@ function findMode(numArr){
         max = map[key]     //save new highest number
         mode = key         //save the key of the highest number
     }
-  } return max
+  } return mode
 }
